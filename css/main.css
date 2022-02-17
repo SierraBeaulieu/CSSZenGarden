@@ -274,6 +274,7 @@ gap: 20px;
 
 .ash-header{
   display: flex;
+
 }
 .ashlogo{
   max-width: 200%;
@@ -282,4 +283,21 @@ gap: 20px;
 .ash-header-nav{
   display: flex;
   gap: 20px;
+}
+
+.lsulogo{
+  max-width: 125px;
+}
+
+.lsulogonav{
+padding: 12px;
+}
+
+.lsulogonav{
+  border: 1px mediumblue;
+}
+.dani-demo{
+display: flex;
+flex-direction: column;
+align-items: center;
 }
