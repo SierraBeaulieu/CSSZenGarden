@@ -262,6 +262,24 @@ textarea {
 }
 
 
-.preamble p {
 
+.nickdemorow{
+display: flex;
+gap: 20px;
+}
+.imag{
+  width: 100%;
+  height:auto;
+}
+
+.ash-header{
+  display: flex;
+}
+.ashlogo{
+  max-width: 200%;
+}
+
+.ash-header-nav{
+  display: flex;
+  gap: 20px;
 }
